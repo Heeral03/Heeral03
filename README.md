@@ -37,3 +37,16 @@ Backend     -> Node.js, Express, FastAPI, REST APIs, Azure, Docker, Nginx
 Data        -> PostgreSQL, Redis, SQLite, Vector Databases, FAISS
 AI / Chain  -> LangGraph, RAG Systems, Hyperledger Fabric, Solidity
 Systems     -> BullMQ, k6, Terraform, Redis Pub/Sub, Server-Sent Events
+```
+
+---
+ 
+## King's College London x Across Medical
+ 
+Product Developer, Internship — Across Medical is a MedTech venture affiliated with King's College London, building cross-border health record infrastructure. My work there shaped how I think about healthcare software: high-stakes, regulation-bound, and unforgiving of shortcuts.
+ 
+- Designed a GDPR-compliant, state-driven consent management system modeling the full data-access lifecycle for cross-border patient records.
+- Migrated a live family dashboard to a 45+ table Azure PostgreSQL schema, moving it from prototype to production-shaped infrastructure.
+- Evaluated Hyperledger Fabric vs. permissionless blockchain architectures for cross-border health record sharing, weighing compliance, scalability, and governance trade-offs.
+This experience is why healthcare software is where I want to keep building: a wrong consent flow or a dropped record isn't a minor bug, it's a real-world consequence, and that constraint has shaped how I approach every system since.
+ 
