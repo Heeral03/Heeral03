@@ -31,9 +31,15 @@ Systems      -> BullMQ, k6, Terraform, Redis Pub/Sub, Server-Sent Events
 
 ---
 
-## Why HealthTech
+## King's College London x Across Medical
 
-Healthcare software runs at high stakes, a wrong consent flow or a dropped booking isn't a minor bug. My internship at Across Medical (a King's College London-affiliated MedTech venture) put this into practice: secure, GDPR-compliant health-data architecture and consent lifecycle design for cross-border patient records.
+Product Developer, Internship — Across Medical is a MedTech venture affiliated with King's College London, building cross-border health record infrastructure. My work there shaped how I think about healthcare software: high-stakes, regulation-bound, and unforgiving of shortcuts.
+
+- Designed a GDPR-compliant, state-driven consent management system modeling the full data-access lifecycle for cross-border patient records.
+- Migrated a live family dashboard to a 45+ table Azure PostgreSQL schema, moving it from prototype to production-shaped infrastructure.
+- Evaluated Hyperledger Fabric vs. permissionless blockchain architectures for cross-border health record sharing, weighing compliance, scalability, and governance trade-offs.
+
+This experience is why healthcare software is where I want to keep building: a wrong consent flow or a dropped record isn't a minor bug, it's a real-world consequence, and that constraint has shaped how I approach every system since.
 
 ---
 
@@ -50,17 +56,6 @@ Cuts compliance research time to ~2 seconds, resolves 50% of failures standard R
 **LogSentinel** — Deterministic log anomaly & incident triage engine
 `Python` `FastAPI` `LangGraph` `Pydantic v2` `PostgreSQL`
 Cuts LLM token cost ~95% via pre-filtering, 2.8s root-cause identification, schema compliance raised from 88.3% to 96.7%.
-
-**Ledgerly** — Multi-tenant financial analytics platform
-`Node.js` `React` `PostgreSQL` `OAuth 2.0`
-Built solo end to end, auth through executive dashboards, with a two-phase import pipeline for data integrity.
-
----
-
-## Experience
-
-**Product Developer, Internship** — King's College London x Across Medical
-Designed a GDPR-compliant consent management system for cross-border patient records, migrated a live dashboard to a 45+ table Azure PostgreSQL schema, and evaluated Hyperledger Fabric vs. permissionless architectures for health record sharing.
 
 ---
 
